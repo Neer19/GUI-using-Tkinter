@@ -1,0 +1,8 @@
+basic notepad
+1 the name is python
+tkinter
+
+
+
+
+
